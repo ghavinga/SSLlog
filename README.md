@@ -1,5 +1,5 @@
 SSLLog - analyze Sonicwall SSL portal log files
-===============================================
+-----------------------------------------------
 
 This Perl script reads a syslog created Sonicwall SSL VPN device logfile and
 attempts to summarise usage of the Sonicwall SSL VPN gateway.
